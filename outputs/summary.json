@@ -1,0 +1,9 @@
+{
+  "dataset_size": 3000,
+  "good_quality_pct": 19.26666666666667,
+  "best_model": "Gradient Boosting",
+  "model_accuracy": 0.9,
+  "auc_score": 0.9569856084354518,
+  "top_feature": "quality_score",
+  "generated_at": "2026-02-08T20:19:29.459648"
+}
