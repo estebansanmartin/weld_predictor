@@ -1,4 +1,4 @@
-# Weld Quality Predictor
+# 🔥 Weld Quality Predictor
 
 Sistema di Predictive Quality Control per saldature robotiche ABB basato su Machine Learning.
 
