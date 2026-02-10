@@ -106,8 +106,10 @@ def pre_weld_check(corrente, tensione, velocita, ...):
         adjust_parameters(prediction['suggerimenti'])
 ```
 
-## Requisiti
+## Installazione
 
 ```
-pip install pandas numpy matplotlib seaborn scikit-learn
+git clone https://github.com/tuousername/weld-quality-predictor.git
+cd weld-quality-predictor
+pip install -r requirements.txt
 
